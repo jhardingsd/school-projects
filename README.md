@@ -2,4 +2,4 @@
 
 My first repository on GitHub!
 
-I love :coffee: :pizza: :beer:
+I love :coffee:, :pizza:, and :beer:  !!
