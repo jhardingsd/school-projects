@@ -1,2 +1,5 @@
-# school-projects
-This is a repository of school projects
+# hello world!
+
+My first repository on GitHub!
+
+I love :coffee: :pizza: :beer:
